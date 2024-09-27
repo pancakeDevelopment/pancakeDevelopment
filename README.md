@@ -1,9 +1,8 @@
 ﻿<h1 align="center">Hi 👋, I'm Pancake</h1>
-<h3 align="center">A passionate software developer and security student from germany</h3>
 
-- 🔭 I’m currently working on **my bachelor thesis**
+- 🔭 I’m currently working as a **Software developer**
 
-- 🌱 I’m currently learning **Django, PrimeNG & frontend in general**
+- 🌱 I’m currently learning **vue3**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
